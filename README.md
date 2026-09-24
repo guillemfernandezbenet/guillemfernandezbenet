@@ -1,4 +1,8 @@
-## Hi there 👋
+<!--## Hi there 👋-->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=100&lines=Hola%2C+soy+Guillem+%F0%9F%90%A7;Construyendo+ideas+con+c%C3%B3digo...;Bienvenido+a+mi+perfil+de+GitHub" alt="Typing SVG" />
+</div>
 
 <!--
 **guillemfernandezbenet/guillemfernandezbenet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
