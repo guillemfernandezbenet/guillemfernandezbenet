@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&height=90&lines=%F0%9F%91%BE+Hi%2C+I'm+Guillem!+%F0%9F%91%BE;%F0%9F%8C%9F+Welcome+to+my+profile!+%F0%9F%8C%9F" alt="Guillem GitHub Banner" />
 </div>
 
+
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=guillemfernandezbenet&color=58a6ff&style=flat-square" alt="Contador de visitas" />
+</div>
+
 <!--
 **guillemfernandezbenet/guillemfernandezbenet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
