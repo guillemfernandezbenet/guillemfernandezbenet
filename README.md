@@ -1,7 +1,7 @@
 <!--## Hi there 👋-->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=100&lines=Hola%2C+soy+Guillem+%F0%9F%90%A7;Construyendo+ideas+con+c%C3%B3digo...;Bienvenido+a+mi+perfil+de+GitHub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&height=90&lines=%F0%9F%90%BE+Hi%2C+I'm+Guillem!+%F0%9F%90%BE;%F0%9F%8C%9F+Welcome+to+my+profile!+%F0%9F%8C%9F" alt="Guillem GitHub Banner" />
 </div>
 
 <!--
